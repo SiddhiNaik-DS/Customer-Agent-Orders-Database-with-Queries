@@ -251,6 +251,10 @@ WHERE c.OUTSTANDING_AMT > 7000
 
 Explanation: Filter customers where payment is made but outstanding is still more than 7000.
 
+<img width="900" height="875" alt="image" src="https://github.com/user-attachments/assets/bc388de6-b1fb-4374-80a3-053ee34c5418" />
+<img width="900" height="451" alt="image" src="https://github.com/user-attachments/assets/255a0af2-81f9-4e6f-9e71-50d776371a00" />
+<img width="900" height="456" alt="image" src="https://github.com/user-attachments/assets/c6b24c7d-192e-4a8a-9dd6-26f0d5489e96" />
+<img width="900" height="562" alt="image" src="https://github.com/user-attachments/assets/0eb28171-1198-4ea1-a48e-c86b37036ac7" />
 
 
 
